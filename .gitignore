@@ -17,6 +17,7 @@
 **/*.pdb
 **/*.aps
 **/*.sdf
+**/*.cd
 **/*.user
 **/*.suo
 **/*.filters
